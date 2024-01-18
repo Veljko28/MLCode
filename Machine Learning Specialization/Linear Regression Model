@@ -1,0 +1,10 @@
+# Linear Regression Model
+
+The linear regression model fits a straight line trough the data, and then for any new input it gives the corresponding value (where the line connects to the model prediction).
+
+x = "input" variable 
+y = "output" or "target" variable
+m = number of training examples
+(x, y) = single training example
+
+f(x) = wx+b; w - weights; b - bias
